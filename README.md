@@ -1,7 +1,7 @@
 # support-guide
 
 # did someone create a ticket without providing info?
-**.qr-?**
+**.qr-nohi**
 
 # is someone crashing when injecting or executing?
 **.qr-crash**
@@ -32,6 +32,9 @@
 
 # did you solve the issue of someone?
 **.qr-nobye**
+
+# did you finish answering an issue but he wont respond if the fix worked?
+**.qr-?**
 
 
 **NOTE : THESE ARE ONLY THE MOST COMMON.**
